@@ -89,7 +89,7 @@ Whether you're recording gameplay or creating Reels, ClipZen’s AI handles:
 ---
 
 ## 👥 Target Users
-- Gaming content creators (BGMI, Valorant, CODM, Roblox)
+- Gaming content creators 
 - YouTube Shorts & Reels creators
 - Influencers & vloggers
 
@@ -116,9 +116,7 @@ Whether you're recording gameplay or creating Reels, ClipZen’s AI handles:
 ---
 
 ## 💬 Contact / Credit
-**Founder & Developer:** *[Your Name]*  
-**Email:** *your@email.com*  
-**LinkedIn / GitHub:** *link-here*  
+**Founder & Developer:** *[Satish Bhitale]*
 **Tagline:** *Stay Zen, We Edit.*
 
 ---

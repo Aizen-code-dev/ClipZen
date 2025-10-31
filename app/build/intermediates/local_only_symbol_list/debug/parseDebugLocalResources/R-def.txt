@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+anim fade_in
+anim scale_up
+anim slide_up
+color black
+color white
+color zen_bg
+color zen_cyan
+color zen_purple
+drawable bg_gradient
+drawable ic_launcher
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+font poppins_regular
+font poppins_semibold
+id appName
+id logoImage
+id main
+id tagline
+layout activity_main
+layout activity_splash
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.ClipZen
+style Theme.ClipZen
+xml backup_rules
+xml data_extraction_rules
